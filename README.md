@@ -23,4 +23,4 @@ Skills: **POWER BI** || **TABLEAU** || **SQL** || **PYTHON** || **R** || **SPSS*
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Joseph-Opaleye)   -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Joseph-Opaleye)  
 ![Profile views](https://gpvc.arturio.Joseph-Opaleye)  
-<!-- ![Olufemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-Opaleye&hide=contribs,prs) -->
+<!-- ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-Opaleye&hide=contribs,prs) -->
